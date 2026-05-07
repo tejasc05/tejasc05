@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tejas Chaudhari</h1>
 <h3 align="center">I am an eager-to-learn College Sophomore at Cornell studying CS</h3>
 
-- 🌱 I’m currently learning **Java**
-
 - 📫 How to reach me **tejas03c@gmail.com**
 
 - ⚡ Fun fact **I can touch my nose with my tongue**
